@@ -1,5 +1,5 @@
 # Automatic-object-border-detection #contours #remove_background
-#opencv #matplotlib #rembg
+#opencv #matplotlib #rembg #Image-Processing
 From this repo you can know how remove bacground from an image and find,draw contours.
 
 STEPS:-
