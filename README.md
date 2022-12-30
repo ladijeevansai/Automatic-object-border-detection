@@ -4,7 +4,7 @@ From this repo you can know how remove bacground from an image and find,draw con
 
 STEPS:-
 
-➡️In this project i had used several linraries like opencv to crop the roi from the image.
+➡️In this project, intially i had used opencv to crop the roi from the image.
 
 ➡️Then removed the the background from the image using rembg library
 
@@ -14,9 +14,9 @@ understand more about rembg through this link⬇️
 
 https://pypi.org/project/rembg/
 
-➡️Now we draw an outline easily as it doesn’t have any background now.
+➡️Then I drew an outline easily, as the image doesn’t have any background now.
 
-➡️finally superimpose the object outline over the main image
+➡️finally I superimposed the object outline over the main image
 
 
 
